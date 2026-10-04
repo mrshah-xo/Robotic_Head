@@ -25,6 +25,11 @@ A fully functional humanoid robot built from scratch — mechanical design, embe
 
 No cloud subscriptions. No black-box kits. Every part designed, printed, and coded by hand.
 
+FOR CAD MODELS 
+CAD Models: https://whop.com/irox-dr/cad-files/
+-or-
+Gmail: ayushshah8082@gmail.com
+
 <br/>
 
 <div align="center">
